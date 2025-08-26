@@ -13,7 +13,7 @@ It demonstrates how data-driven insights can improve decision-making across cust
 ## 📸 Dashboards Preview
 
 ### 1. Call Center Analytics
-![Call Center Dashboard](C:\Users\rajes\Documents\power Bi)
+![Call Center Dashboard](call center.pdf)
 
 ### 2. Customer Churn Analysis
 ![Customer Churn Dashboard](Images/Churn-Dashboard.png)
