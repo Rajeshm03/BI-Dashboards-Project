@@ -10,19 +10,22 @@ It demonstrates how data-driven insights can improve decision-making across cust
 
 ---
 
+
+---
+
 ## 📸 Dashboards Preview
 
 ### 1. Call Center Analytics
-![Call Center Dashboard](Images/call center.pdf)
+![Call Center Dashboard](https://github.com/Rajeshm03/PowerBI-Dashboards-Project/blob/main/Images/Call-Center-Dashboard.png)
 
 ### 2. Customer Churn Analysis
-![Customer Churn Dashboard](Images/Churn-Dashboard.png)
+![Customer Churn Dashboard](https://github.com/yourusername/PowerBI-Dashboards-Project/blob/main/Images/Churn-Dashboard.png)
 
 ### 3. Customer Retention
-![Customer Retention Dashboard](Images/Customer-Retention-Dashboard.png)
+![Customer Retention Dashboard](https://github.com/yourusername/PowerBI-Dashboards-Project/blob/main/Images/Customer-Retention-Dashboard.png)
 
 ### 4. Diversity & Inclusion
-![Diversity Dashboard](Images/Diversity-Dashboard.png)
+![Diversity Dashboard](https://github.com/yourusername/PowerBI-Dashboards-Project/blob/main/Images/Diversity-Dashboard.png)
 
 ---
 
@@ -52,5 +55,10 @@ This project was built as part of a **data analytics case study** to demonstrate
 It can be used as a reference for customer analytics, retention strategies, and HR diversity analysis.  
 
 ---
+
+## 🔗 Author
+👤 *[Your Name]*  
+- GitHub: [yourusername](https://github.com/yourusername)  
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
 
 
