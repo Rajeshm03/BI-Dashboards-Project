@@ -1,39 +1,56 @@
-# Business Intelligence Dashboards (Power BI)
+# 📊 Business Intelligence Dashboards (Power BI)
 
-This project contains four Power BI dashboards analyzing key business areas: Call Center, Customer Churn, Customer Retention, and Workforce Diversity.
+This project showcases a collection of interactive **Power BI dashboards** built to analyze key business areas such as **Call Center Operations, Customer Churn, Customer Retention, and Workforce Diversity**.  
+It demonstrates how data-driven insights can improve decision-making across customer service and HR functions.  
 
 ---
 
-## 📊 Dashboards Preview
+## 📂 Project Structure
+
+
+---
+
+## 📸 Dashboards Preview
 
 ### 1. Call Center Analytics
 ![Call Center Dashboard](Images/Call-Center-Dashboard.png)
 
 ### 2. Customer Churn Analysis
-![Churn Dashboard](Images/Churn-Dashboard.png)
+![Customer Churn Dashboard](Images/Churn-Dashboard.png)
 
 ### 3. Customer Retention
-![Retention Dashboard](Images/Retention-Dashboard.png)
+![Customer Retention Dashboard](Images/Customer-Retention-Dashboard.png)
 
 ### 4. Diversity & Inclusion
 ![Diversity Dashboard](Images/Diversity-Dashboard.png)
 
 ---
 
-## 📂 Project Structure
-- **Dashboards/** → Final dashboards in PDF  
-- **Images/** → PNG screenshots of dashboards  
-- **Data/** → Source Excel datasets  
-- **README.md** → Project overview  
+## 🛠 Tools & Technologies
+- Power BI (Dashboard Development)  
+- Excel (Data Preparation & Cleaning)  
 
 ---
 
-## 🛠 Tools Used
-- Power BI  
-- Excel (data preparation)  
-
 ## ✅ Key Outcomes
-- Improved customer retention strategies  
-- Reduced churn risk by identifying high-risk groups  
-- Enhanced HR decision-making with diversity insights  
-- Consolidated call center performance monitoring  
+- Improved call center monitoring with resolution & satisfaction metrics.  
+- Identified **26% churn risk** and proposed retention strategies.  
+- Designed contract & payment analysis to enhance loyalty.  
+- Analyzed workforce diversity, promotions, and HR policies.  
+
+---
+
+## 📌 How to Use
+1. Open the **Dashboards (PDF)** folder to view the reports.  
+2. Refer to the **Images** folder for quick previews.  
+3. Use the **Excel files** in the Data folder as the dataset source.  
+
+---
+
+## 🚀 Project Purpose
+This project was built as part of a **data analytics case study** to demonstrate Power BI skills in building real-world dashboards.  
+It can be used as a reference for customer analytics, retention strategies, and HR diversity analysis.  
+
+---
+
+
