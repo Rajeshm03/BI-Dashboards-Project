@@ -1,19 +1,39 @@
 # Business Intelligence Dashboards (Power BI)
 
-This project contains four interactive Power BI dashboards designed to deliver business insights:
+This project contains four Power BI dashboards analyzing key business areas: Call Center, Customer Churn, Customer Retention, and Workforce Diversity.
 
-1. **Call Center Analytics** – Analyzes call handling, resolution, and satisfaction.
-2. **Customer Churn Analysis** – Identifies at-risk customers based on demographics and contracts.
-3. **Customer Retention** – Provides strategies for improving loyalty and reducing churn.
-4. **Diversity & Inclusion Analytics** – Evaluates workforce demographics, promotions, and HR policies.
+---
 
-## Tools Used
-- Power BI
-- Excel (Data Preparation)
+## 📊 Dashboards Preview
 
-## Key Outcomes
-- Improved customer retention strategies
-- Reduced churn risk by identifying high-risk groups
-- Enhanced HR decision-making with diversity insights
-- Consolidated call center performance monitoring
+### 1. Call Center Analytics
+![Call Center Dashboard](Images/Call-Center-Dashboard.png)
 
+### 2. Customer Churn Analysis
+![Churn Dashboard](Images/Churn-Dashboard.png)
+
+### 3. Customer Retention
+![Retention Dashboard](Images/Retention-Dashboard.png)
+
+### 4. Diversity & Inclusion
+![Diversity Dashboard](Images/Diversity-Dashboard.png)
+
+---
+
+## 📂 Project Structure
+- **Dashboards/** → Final dashboards in PDF  
+- **Images/** → PNG screenshots of dashboards  
+- **Data/** → Source Excel datasets  
+- **README.md** → Project overview  
+
+---
+
+## 🛠 Tools Used
+- Power BI  
+- Excel (data preparation)  
+
+## ✅ Key Outcomes
+- Improved customer retention strategies  
+- Reduced churn risk by identifying high-risk groups  
+- Enhanced HR decision-making with diversity insights  
+- Consolidated call center performance monitoring  
